@@ -1,12 +1,12 @@
 /*Author   				: sagar kumar giri
  * Date    				: 17/12/2021
  * Input   				: A string with Ctrl-D
- * Sample execution  	: Hello world
-						  Dennis Ritchie
-						  Linux
-						  Character count : 34
-						  Line count      : 3
-						  Word count      : 5		
+ * Sample execution                    : Hello world
+				          Dennis Ritchie
+					  Linux
+					  Character count : 34
+					  Line count      : 3
+					  Word count      : 5		
 ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 
 
